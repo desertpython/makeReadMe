@@ -1,9 +1,9 @@
-# a
+# makeReadMe
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-a
+The current project uses node.js to creat a readme generator.
 
 ## Table of Contents 
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-
+The user should answer all questions to the best of their abilities
 
 ## License
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-k
+The repo is closed to contributions at this time...
 
 ## Tests
 
@@ -49,5 +49,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [undefined](https://github.com/undefined/).
+If you have any questions about the repo, open an issue or contact me directly at test@test.com. You can find more of my work at [desertpython](https://github.com/desertpython/).
 
